@@ -1,0 +1,26 @@
+Bootstrap: docker
+From: busybox:latest
+
+%runscript
+echo "Represents joy."
+echo "L as in Lesbian"
+echo "G as in Gay"
+echo "B as in Bisexual"
+echo "T as in Transgender"
+echo "Q as in Queer"
+echo "Celebrate, Love All!"
+echo "We are all living a gay life!"
+echo "Joy has the power to heal, bring people together, and inspire hope."
+echo "L as in Lesbian"
+echo "G as in Gay"
+echo "B as in Bisexual"
+echo "T as in Transgender"
+echo "Q as in Queer"
+echo "Introducing..."
+echo "The alphabet mafia!"
+echo "LGBT"
+echo "LGBT+"
+echo "LGBTQ+"
+echo "LGBTQIA"
+echo "LGBTQIA+"
+echo "2SLGBTQIAP"
